@@ -4,8 +4,8 @@
 .game {
   position: absolute;
   top: 50%;
-  transform: translate(0, -50%);
-  padding: 10px;
+  left: 50%;
+  margin: -50px 0 0 -50px;
 }
 
 .square {
