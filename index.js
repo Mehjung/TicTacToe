@@ -1,6 +1,3 @@
-import "./index.css";
-
-
 function Square(props) {
   return props.value ? (
     <button className="square" onClick={props.onClick}>
