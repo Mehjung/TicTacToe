@@ -1,5 +1,12 @@
 
 /* CSS */
+
+.game {
+  border: 5px solid;
+  display: flex;
+  justify-content: center; 
+}
+
 .square {
   align-self: center;
   background-color: #fff;
